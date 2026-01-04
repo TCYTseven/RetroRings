@@ -39,8 +39,7 @@ Our frontend application is built using Next.js, React, and TailwindCSS, with Ch
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/AndreiBalan-dev/tryCatchUs.git
-    cd tryCatchUs
+    git clone https://github.com/TCYTseven/RetroRings
     ```
 
 2. **Backend (API) Setup**
@@ -65,7 +64,7 @@ Our frontend application is built using Next.js, React, and TailwindCSS, with Ch
     - Frontend: `http://localhost:3000`
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/AndreiBalan-dev/tryCatchUs/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 We would like to thank the #CodedexSummerHackathon2024 for organizing this amazing hackathons.
